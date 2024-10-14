@@ -2,9 +2,14 @@
 
 Hi, I'm Ruiqi, the teaching assistant of CIVL6060. In addition to the tutorial delivered in the class, the following is another supplementary for your essay.
 
+The HTML version of this introduction could be found at [CIVL6060-AI4M](https://richj233.github.io/CIVL6060_AI4Maintenance-Robotics/README.html).
+
 ## Essay main body
 
 Part of this section is referenced [Guidelines For Writing Up Your Research](https://ocw.mit.edu/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/pages/assignments/guidelines-for-writing-up-your-research/#Introduction).
+
+The suggested structure of the essay is
+![Hourglass model](./Figs/Fig4.png) (credited by Dr Tsang, GRSC6121).
 
 ### Introduction
 
@@ -32,7 +37,7 @@ For example, to environmental inspection for building maintenance->
 
 The literature review should be fundamental to your motivations. Although this part is the second part of your essay, I suggest you do this part work at the beginning of your masterpiece. When you do not have a specific research topic, doing some review work seems a good choice.
 
-Here are several suggested steps for your review process (for example, as the topic "Inspection with robots in maintenance work"):
+Here are several suggested steps for your review process (for example, as the topic "Inspection with robots in maintenance work" ):
 1. Search your keywords in the academic search system (e.g., Google Scholar, web of science, etc.);
 2. Read the amount of suitable publications;
 3. Summarizing those publications and find the differences and similarities;
@@ -75,10 +80,14 @@ For example, to environmental inspection for building maintenance->
 
 ### References
 
-You'd better adopt the APA format.
+- The APA format is suggested.
+- Plagiarism is the use of another person's work (including but not limited
+to any materials, creations, ideas and data) as if one's own without due
+acknowledgement, whether or not such work has been published and
+regardless of the intent to deceive. (HKU Policy of Research Integrity)
+- Please cite appropriately.
 
 ## Appendix
 
 - This repository is ONLY for the course assessment (essay part) of students enrolled in CIVL6060. Please notify me if you have any other inquiries.
-
 - If you have any inquiries, please feel free to drop an email to jiang_ruiqi AT connect DOT hku DOT hk.
