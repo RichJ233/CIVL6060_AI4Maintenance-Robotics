@@ -2,7 +2,7 @@
 
 Hi, I'm Ruiqi, the teaching assistant of CIVL6060. In addition to the tutorial delivered in the class, the following is another supplementary for your essay.
 
-The HTML version of this introduction could be found at [CIVL6060-AI4M](https://richj233.github.io/CIVL6060_AI4Maintenance-Robotics/README.html).
+The HTML version of this introduction could be found at [CIVL6060-AI4M](https://richj233.github.io/CIVL6060_AI4Maintenance-Robotics/).
 
 ## Essay main body
 
